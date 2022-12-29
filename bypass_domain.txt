@@ -12059,7 +12059,6 @@ mzstatic.com
 entrust.net
 digicert.com
 verisign.net
-apple
 itunes-apple.com.akadns.net
 cdn-apple.com.akadns.net
 cdn-apple.com.download.ks-cdn.com
